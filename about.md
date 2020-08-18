@@ -1,18 +1,12 @@
 ---
 layout: page
-title: About
+title: Обо мне
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Занимаюсь интернет проектами с 2006 года. Начинал в качестве руководителя группы разработчиков и
+продакт менеджера, а по совместительству и директора ООО. Вопросы найма и обспечения работы компании
+так же были на мне. Затем добавил к своим скилам еще и разработку (ruby on rails). Появилось понимание, как именно делается проект, какие есть подводные камни и с какими трудностями сталкивается разработчик при создании проекта. Лично создал несколько рабочих веб проектов с нуля, от дизайна и проработки user stories до полноценной работы на production сервере. Так же есть определенное чувство прекрасного и поэтому неравнодушен к ui/ux. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+В свободное время увлекаюсь фотографией и историей.
