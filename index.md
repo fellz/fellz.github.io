@@ -6,9 +6,10 @@ layout: home
 title: Главная
 ---
 
+<img src="/assets/images/me.jpg" width="200"/>
+
 ## Мое кредо - **getting things done**.
 
-<img src="/assets/images/me.jpg" width="200"/>
 
 Занимаюсь разработкой с 2009 года. Первый стек технологий - ruby, ruby on rails. Участвовал в 
 доработке крупного интернет магазина. Так же делал несколько проектов под заказ.
